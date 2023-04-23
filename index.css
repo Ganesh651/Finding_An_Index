@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.main-heading{
+    color: #2d3a35;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: 700;
+}
+.default-array-para{
+    color: #2d3a35;
+    font-family: "Bree Serif";
+    font-size: 24px;
+}
+.user-input{
+    height: 40px;
+    width: 100%;
+    margin-right: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #00050a;
+    border-radius: 4px;
+}
+.result-heading{
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 600;
+}
+.result-container{
+    color: #795e26;
+    background-color: #f3f3f3;
+    padding: 20px;
+    margin-top: 10px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-family: "Bree Serif";
+    border-left-width: 10px;
+    border-left-style: solid;
+    border-left-color: rgb(218, 93, 139);
+    border-radius: 15px;
+    border-right-width: 10px;
+    border-right-style: solid;
+    border-right-color: rgb(218, 93, 139);
+}
